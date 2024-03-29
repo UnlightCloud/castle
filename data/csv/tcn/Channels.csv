@@ -1,0 +1,2 @@
+id,name,order,rule,host_name,host,port,chat_host,chat_port,duel_host,duel_port,watch_host,watch_port,state,caption,penalty_type,watch_mode
+1,潘德莫尼,1,0,unlight-server.is-ga.me,unlight-server.is-ga.me,12018,unlight-server.is-ga.me,12012,unlight-server.is-ga.me,12008,unlight-server.is-ga.me,12080,0,,0,1
