@@ -1,4 +1,4 @@
-ARG ABYSS_VERSION latest
+ARG ABYSS_VERSION=latest
 
 FROM ghcr.io/unlightcloud/abyss:${ABYSS_VERSION}
 
